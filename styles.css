@@ -11,7 +11,7 @@ div {
 }
 
 .circle2 {
-  border-color: rgb(113, 192, 113) transparent rgba(113, 192, 113, 1)
+  border-color: transparent rgb(113, 192, 113) rgba(113, 192, 113, 1)
     rgba(113, 192, 113, 1);
   position: absolute;
   top: 8px;
